@@ -22,6 +22,7 @@ import HomeCard from '../components/HomeCard.vue';
     <HomeCard class="lg:block hidden" image="https://picsum.photos/id/45/300/300" title="Title is here" subTitle="Subtitle is here"/>
     <HomeCard class="xl:block hidden" image="https://picsum.photos/id/55/300/300" title="Title is here" subTitle="Subtitle is here"/>
   </div>
+
   <div class="p-8">
     <button 
       type="button"
@@ -38,6 +39,7 @@ import HomeCard from '../components/HomeCard.vue';
     <HomeCard class="lg:block hidden" image="https://picsum.photos/id/48/300/300" title="Title is here" subTitle="Subtitle is here"/>
     <HomeCard class="xl:block hidden" image="https://picsum.photos/id/53/300/300" title="Title is here" subTitle="Subtitle is here"/>
   </div>
+  
   <div class="p-8">
     <button 
       type="button"
