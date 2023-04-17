@@ -74,5 +74,6 @@ export const useCounterSongStore = defineStore('song', {
       this.currentArtist = null;
       this.currentTrack = null;
     }
-  }
+  },
+  persist: true
 });
