@@ -10,6 +10,10 @@ const router = createRouter({
     {
       path: '/search',
       component: () => import('../views/SearchView.vue')
+    },
+    {
+      path: '/library',
+      component: () => import('../views/LibraryView.vue')
     }
   ]
 });
