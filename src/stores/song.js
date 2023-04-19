@@ -1,7 +1,7 @@
 import { defineStore } from 'pinia';
 import artist from '../artist.json';
 
-export const useCounterSongStore = defineStore('song', {
+export const useSongStore = defineStore('song', {
   state: ()=>({
     isPlaying: false,
     audio: null,
