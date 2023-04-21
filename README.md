@@ -1,6 +1,6 @@
 # Spotify Clone (spotify-clone) By Wladimir Sanvicente
 
-https://avatars.githubusercontent.com/u/62582756?v=4
+<img src="https://avatars.githubusercontent.com/u/62582756?v=4">
 
 ### Learn how to build this!
 
