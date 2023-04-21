@@ -10,8 +10,6 @@ const props = defineProps({
 
 const { image, title, subTitle } = toRefs(props);
 
-console.log(image);
-
 </script>
 <template>
   

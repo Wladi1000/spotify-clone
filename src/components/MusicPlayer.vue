@@ -180,10 +180,10 @@ watch(
               class="pointer-events-none mt-[6px] absolute h-[4px] z-10 inset-y-0 left-0 w-0"
               :style="`width: ${range}%;`"
               :class="isHover ? 'bg-green-500' : 'bg-white'"
-            />
+            ></div>
             <div
               class="absolute h-[4px] z-[-0] mt-[6px] inset-y-0 left-0 w-full bg-gray-500 rounded-full"
-            />
+            ></div>
           </div>
           <div
             v-if="isTrackTimeTotal"
